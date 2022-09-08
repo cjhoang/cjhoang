@@ -2,7 +2,7 @@
 
 **Celeste J. Hoang**
 
-I am a Psychology student at UT Austin and I am interested in data science 
+I am a Psychology student at UT Austin and I am interested in data science, neuroscience, 
 and coding. I am currently learning how to use Python and Windows PowerShell.
 
 <!--
