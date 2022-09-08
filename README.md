@@ -5,6 +5,8 @@
 I am a Psychology student at UT Austin and I am interested in data science, neuroscience, 
 and coding. I am currently learning how to use Python and Windows PowerShell.
 
+:)
+
 <!--
 **cjhoang/cjhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
